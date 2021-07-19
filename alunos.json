@@ -2,7 +2,8 @@
 {
 	"nome" : "Guilherme",
 	"localizacao" : { "type" : "Point", "coordinates" : [-23.5882133, -46.63235580000003]}
-},{
+},
+{
 	"nome" : "Paulo",
 	"localizacao" : { "type" : "Point", "coordinates" : [-23.5707855, -46.643499399999996]}
 },
