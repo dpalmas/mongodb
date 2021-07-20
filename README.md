@@ -1,4 +1,4 @@
-<h1 align="center">
+<h2 align="center">
   MongoDB: Uma alternativa aos banco relacionais tradicionais
 </h1>
 
